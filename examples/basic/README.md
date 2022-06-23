@@ -1,17 +1,15 @@
-# terraform-aws-ModuleName
-
-Terraform module, which ModuleName.
-
-[Terraform Registry](https://registry.terraform.io/modules/tomoki171923/ModuleName/aws/latest)
-
-## Usage
+# Complete Simple ModuleName
 
 hogehoge.
 
-```terraform
-module "ModuleName" {
-  source  = "tomoki171923/ModuleName/aws"
-}
+## Usage
+
+To run this example you need to execute:
+
+```bash
+terraform init
+terraform plan
+terraform apply
 ```
 
 ## Examples
